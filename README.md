@@ -31,7 +31,7 @@ I'm always on the lookout for new opportunities to learn and grow. Whether it's 
 
 I'm excited to collaborate, share ideas, and learn from fellow enthusiasts. Feel free to reach out via:
 
-- [LinkedIn](https://www.linkedin.com/in/morezarahadi/)
+- 📫[LinkedIn](https://www.linkedin.com/in/morezarahadi/)
 
 
 Thanks for stopping by my profile! 🌟
