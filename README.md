@@ -38,7 +38,7 @@ Thanks for stopping by my profile! 🌟
 
 ---
 
-*“Data is the new oil.” — Clive Humby*
+*“Reading is not just about extracting meaning from the text, but about giving meaning to the text itself..” — Reza*
 
 
 
