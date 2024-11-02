@@ -13,7 +13,7 @@ Here's a glimpse of my toolkit:
 - **Web Technologies**: 
   - HTML, CSS
 - **Data Engineering & ETL**:
-  - SQL, BigQuery, Data Warehouse, Kafka
+  - SQL, BigQuery, Data Warehouse, Kafka, Pyspark, Airflow
 - **Cloud & DevOps**:
   - AWS, Docker, Vagrant, Ansible
 - **Data Science Libraries**:
